@@ -9,6 +9,8 @@ namespace ConsoleApp_Hello
     {
         static void Main(string[] args)
         {
+            // вывести слово Привет на экран и ожидать нажания клавиши Enter
+
             Console.WriteLine("Privet!");
             Console.WriteLine("\r\n press Enter to continue");
             Console.ReadLine();
