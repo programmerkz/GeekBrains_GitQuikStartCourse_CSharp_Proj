@@ -9,6 +9,9 @@ namespace ConsoleApp_Hello
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Privet!");
+            Console.WriteLine("\r\n press Enter to continue");
+            Console.ReadLine();
         }
     }
 }
